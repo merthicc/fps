@@ -1,0 +1,3 @@
+C:\Users\smmac\Documents\Unreal Projects\DemoProject\Source\DemoProject\DemoProject.Build.cs
+C:\Users\smmac\Documents\Unreal Projects\DemoProject\Source\DemoProject.Target.cs
+C:\Users\smmac\Documents\Unreal Projects\DemoProject\Source\DemoProjectEditor.Target.cs
