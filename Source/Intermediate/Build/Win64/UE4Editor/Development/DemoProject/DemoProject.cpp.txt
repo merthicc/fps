@@ -1,2 +1,0 @@
-C:\Users\smmac\Documents\Unreal Projects\DemoProject\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\Definitions.DemoProject.h
-C:\Users\smmac\Documents\Unreal Projects\DemoProject\Source\DemoProject\DemoProject.h
