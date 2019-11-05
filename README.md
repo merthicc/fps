@@ -2,7 +2,7 @@
 And a Better Life - одиночная компьютерная игра в жанре шутера от первого лица
 
 # Установка
-* Загрузить [https://drive.google.com/file/d/1Jd01Zd-wfUnYUZ9inGvXZ1lrv3248vGv/view](архив с игрой)
+* Загрузить [архив с игрой](https://drive.google.com/file/d/1Jd01Zd-wfUnYUZ9inGvXZ1lrv3248vGv/view)
 * Разархивировать скачанный файл
 * Запустить GoldShooter.exe
 
