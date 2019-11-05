@@ -1,9 +1,0 @@
-C:\Users\smmac\Documents\Unreal Projects\DemoProject\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\Definitions.DemoProject.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\smmac\Documents\Unreal Projects\DemoProject\Source\DemoProject/DemoProjectCharacter.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\smmac\Documents\Unreal Projects\DemoProject\Intermediate\Build\Win64\UE4Editor\Inc\DemoProject\DemoProjectCharacter.generated.h
